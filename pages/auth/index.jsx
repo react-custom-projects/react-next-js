@@ -1,7 +1,11 @@
-export default function AuthIndex() {
+import React from 'react';
+
+const AuthIndex = () => {
     return (
         <div>
-            <p>Hello Next.js</p>
+            <p>The auth page</p>
         </div>
     );
-}
+};
+
+export default AuthIndex;
