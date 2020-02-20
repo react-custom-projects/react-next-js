@@ -6,7 +6,7 @@ const AuthIndex = () => {
     return (
         <div>
             <p>The auth page</p>
-            <User name="Adam" age="29" />
+            <User name="Adam" age="29"/>
         </div>
     );
 };
