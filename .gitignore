@@ -10,3 +10,6 @@
 
 # analyze webpack output json file
 stats.json
+
+# .next directory
+.next/
